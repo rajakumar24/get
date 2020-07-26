@@ -1,0 +1,76 @@
+/* .imgInput1{
+  position: relative;
+    height: 200px;
+    width: 400px;
+    background-color: rgb(215, 216, 211);
+  border-style: dotted;
+    border-color: rgb(12, 53, 2);
+    border-width: 1.3px;
+    margin: 20px;
+    text-align: center;
+}
+.imgInput2{
+  position: relative;
+    padding: 30px;
+    box-sizing: border-box;
+    height: 100px;
+    width: 200px;
+} */
+/* .imgInput{
+    margin-top: -100px;
+    margin-left: 410px;
+   
+    height: 100px;
+    width: 300px;
+} */
+/* Container holding the image and the text */
+/* .container {
+    position: relative;
+    top: -120px;
+    left: 410px;
+   
+    height: 100px;
+    width: 200px;
+  } */
+  
+  /* Bottom right text */
+  /* .text-block {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    /* padding-right: 20px; */
+    /* text-align: center;
+  }  */
+  /* .parag{
+    position: absolute;
+    background-color: rgb(80, 80, 82);
+    height: 40px;
+    width: 200px;
+    bottom: -110px;
+    color: white;
+    text-align: center;
+  } */
+  .imgInput1{
+    padding: 20px;
+  }
+  .imgInput2{
+    position: relative;
+    border: 1px;
+    border-style: dotted;
+    border-color: rgb(25, 165, 7);
+    background-color: rgb(219, 221, 217);
+    width: 400px;
+    height: 250px;
+    text-align: center;
+  }
+  .imgInput3{
+    position: absolute;
+    top: 60px;
+    left: 40px;
+  }
+  .parag{
+    background-color: #0f0e0cdc;
+  }
